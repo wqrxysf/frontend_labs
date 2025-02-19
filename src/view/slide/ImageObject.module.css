@@ -1,0 +1,5 @@
+.imageField {
+    overflow: hidden;
+    user-select: none;
+    pointer-events: all;
+}

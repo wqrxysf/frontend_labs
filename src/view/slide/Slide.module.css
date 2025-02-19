@@ -1,0 +1,6 @@
+.slide {
+    position: relative;
+    border: 3px solid #c7cbd2;
+    border-radius: 20px;
+    background-size: 100%;
+}

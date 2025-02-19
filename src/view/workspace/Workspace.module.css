@@ -1,0 +1,8 @@
+.workspace {
+    --slideListWidth: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: calc(100% - var(--slideListWidth));
+    background-color: rgb(231, 232, 232);
+}
